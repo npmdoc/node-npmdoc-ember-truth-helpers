@@ -1,9 +1,14 @@
-# api documentation for  [ember-truth-helpers (v1.3.0)](https://github.com/jmurphyau/ember-truth-helpers#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-truth-helpers.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-truth-helpers) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-truth-helpers.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-truth-helpers)
+# npmdoc-ember-truth-helpers
+
+#### api documentation for  [ember-truth-helpers (v1.3.0)](https://github.com/jmurphyau/ember-truth-helpers#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-truth-helpers.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-truth-helpers) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-truth-helpers.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-truth-helpers)
+
 #### Ember Truth Helpers
 
-[![NPM](https://nodei.co/npm/ember-truth-helpers.png?downloads=true)](https://www.npmjs.com/package/ember-truth-helpers)
+[![NPM](https://nodei.co/npm/ember-truth-helpers.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-truth-helpers)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-truth-helpers/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ember-truth-helpers_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-truth-helpers/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ember-truth-helpers/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ember-truth-helpers/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-truth-helpers/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-truth-helpers/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ember-truth-helpers/build/screenCapture.npmPackageListing.svg)
 
@@ -68,13 +73,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "jmurphyau",
-            "email": "jamesmurphyau@me.com"
+            "name": "jmurphyau"
         }
     ],
     "name": "ember-truth-helpers",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jmurphyau/ember-truth-helpers.git"
@@ -87,17 +90,6 @@
     "version": "1.3.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ember-truth-helpers](#apidoc.module.ember-truth-helpers)
-1.  string <span class="apidocSignatureSpan">ember-truth-helpers.</span>name
-
-
-
-# <a name="apidoc.module.ember-truth-helpers"></a>[module ember-truth-helpers](#apidoc.module.ember-truth-helpers)
 
 
 
